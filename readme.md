@@ -1,8 +1,6 @@
 
 # City-wide Origin-destination Matrix Generation via Cascaded Graph Denoising Diffusion.
 
-This repo contains the codes and data for our submitted KDD'25 applied data science track paper under review.
-
 The models are trained on RTX3090-24G.
 
 ## Environment
